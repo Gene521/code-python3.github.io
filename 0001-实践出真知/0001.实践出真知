@@ -1,0 +1,11 @@
+"""
+USER: Gene521
+TIME: 2021/8/1
+LANGUANGE: python3.x
+DESCRIPTION: 输出格式：Practice makes perfect!
+"""
+
+#！ usr/bin/python
+# _*_ coding:utf-8 _*_
+
+print("Practice makes perfect!")
