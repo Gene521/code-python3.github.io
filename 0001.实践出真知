@@ -1,8 +1,0 @@
-#！ /usr/bin/python
-# _*_ coding:utf-8 _*_
-"""
-输出描述：
-Practice makes perfect!
-"""
-
-ptint('Practice makes perfect!')
