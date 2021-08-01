@@ -1,0 +1,7 @@
+输出描述：
+print('**'.center(12))
+print('**'.center(12))
+print('*'*12)
+print('*'*12)
+print('*  *'.center(12))
+print('*  *'.center(12))
